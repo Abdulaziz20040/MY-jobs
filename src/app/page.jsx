@@ -8,7 +8,7 @@ import Footer from "./footer/page";
 
 function page() {
   return (
-    <div className=" text-red-600 ">
+    <div className=" mt-3">
       <Header />
       <Slider />
       <Filter />
