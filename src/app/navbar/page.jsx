@@ -1,5 +1,4 @@
 import React from "react";
-import Vector from "./Vector.png";
 
 function Navbar() {
   return (
